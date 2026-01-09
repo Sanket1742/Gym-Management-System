@@ -54,5 +54,7 @@ If you like this project, give it a **star ⭐** on GitHub!
 - Online membership registration
 - Trainer profiles & schedules
 - Contact form with backend support
+- email for more supports
+
 
 
